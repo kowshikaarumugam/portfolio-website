@@ -1,4 +1,4 @@
-name: aws-pipeline
+name: portfolio Deployment 
 on: workflow_dispatch
 
 jobs:
